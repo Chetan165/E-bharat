@@ -31,24 +31,16 @@ E-Bharat is a fully functional E-commerce web application that provides seamless
 ## 📸 Screenshots
 (You can add screenshots/gifs of your application here.)
 
-## 🛠️ Installation & Setup
+![image](https://github.com/user-attachments/assets/1adabea6-6bdf-4c10-b3c9-7edcc894d845)
+![Screenshot 2025-02-22 090835](https://github.com/user-attachments/assets/5519cd04-5747-4498-928a-7e9cb9f08737)
+![Screenshot 2025-02-22 090850](https://github.com/user-attachments/assets/b8907a09-c6dd-4e89-8e1a-86af237aa298)
+![Screenshot 2025-02-22 090914](https://github.com/user-attachments/assets/d8fb1528-220d-4136-8930-a74ecf279a6f)
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/E-Bharat.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd E-Bharat
-   ```
-3. Install dependencies:
-   ```sh
-   npm install
-   ```
-4. Start the development server:
-   ```sh
-   npm start
-   ```
+
+
+
+
+
 
 ## 🌍 Deployment
 https://e-bharat-2025.netlify.app/
