@@ -29,7 +29,6 @@ E-Bharat is a fully functional E-commerce web application that provides seamless
 - Protected routes for secure user access
 
 ## 📸 Screenshots
-(You can add screenshots/gifs of your application here.)
 
 ![image](https://github.com/user-attachments/assets/1adabea6-6bdf-4c10-b3c9-7edcc894d845)
 ![Screenshot 2025-02-22 090835](https://github.com/user-attachments/assets/5519cd04-5747-4498-928a-7e9cb9f08737)
